@@ -3,7 +3,6 @@
 
 ## Project Overview
 
-Welcome to the Convolutional Neural Networks (CNN) project!
 In this project, I demonstrated how to build a pipeline to process real-world, user-supplied images and to put my model into an app.
 Given an image, the app will predict the most likely locations where the image was taken.
 
